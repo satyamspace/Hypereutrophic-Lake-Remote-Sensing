@@ -1,0 +1,6 @@
+Parameter,Trend,p-value,Sen_slope,Direction
+Chlorophyll_a,no trend,0.5863283668213912,0.12038796164772728,Increasing
+Turbidity_FNU,decreasing,0.007805736750424952,-0.24334498814174108,Decreasing
+TSS,decreasing,0.024117076095269807,-0.6979251437717013,Decreasing
+CDOM,no trend,0.513758054026836,0.0723634535266507,Increasing
+Secchi_Depth,no trend,0.6200396136968203,0.0005151862683503524,Increasing
